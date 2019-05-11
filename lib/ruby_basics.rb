@@ -11,7 +11,7 @@ end
 
 def argue(phrase)
   phrase = "I'm right and you are wrong!"
-  puts phrase
+  return phrase
 end
 
 def greeting(greeting, name)
