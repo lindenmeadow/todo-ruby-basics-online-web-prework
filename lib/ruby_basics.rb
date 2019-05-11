@@ -9,8 +9,9 @@ def assign_variable(value)
   puts value
 end
 
-def argue
-
+def argue(phrase)
+  phrase = "I'm right and you are wrong!"
+  puts phrase
 end
 
 def greeting
